@@ -5,9 +5,9 @@
   <subtitle>DarkBo</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-11-19T07:11:48.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://www.darkbo.com/"/>
+  <updated>2018-12-11T02:09:55.000Z</updated>
+  <id>http://www.darkbo.com/</id>
   
   <author>
     <name>Wu Linbo</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2013/07/13/hello-world/"/>
-    <id>http://yoursite.com/2013/07/13/hello-world/</id>
-    <published>2013-07-13T12:46:25.000Z</published>
-    <updated>2018-11-19T07:11:48.000Z</updated>
+    <title>不忘初心，写给远方的自己</title>
+    <link href="http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/"/>
+    <id>http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/</id>
+    <published>2018-12-10T07:28:28.000Z</published>
+    <updated>2018-12-11T02:09:55.000Z</updated>
     
     <summary type="html">
     
@@ -29,18 +29,16 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="MarkDown" scheme="http://yoursite.com/categories/MarkDown/"/>
+      <category term="MarkDown" scheme="http://www.darkbo.com/categories/MarkDown/"/>
     
     
-      <category term="js" scheme="http://yoursite.com/tags/js/"/>
-    
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+      <category term="Markdown" scheme="http://www.darkbo.com/tags/Markdown/"/>
     
   </entry>
   
