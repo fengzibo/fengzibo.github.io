@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.darkbo.com/"/>
-  <updated>2018-12-20T03:35:24.000Z</updated>
+  <updated>2018-12-24T10:40:51.000Z</updated>
   <id>http://www.darkbo.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>原型 Prototype</title>
+    <link href="http://www.darkbo.com/2018/12/21/yuan-xing-prototype/"/>
+    <id>http://www.darkbo.com/2018/12/21/yuan-xing-prototype/</id>
+    <published>2018-12-21T05:22:21.000Z</published>
+    <updated>2018-12-24T10:40:51.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;直接进入主题吧，先盗用一张图，让你秒懂原型链&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/prototype.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;就算懵逼也没关系，让我们接着往下看&lt;/p&gt;
+&lt;h2 id=&quot;原型及原型链&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://www.darkbo.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://www.darkbo.com/tags/js/"/>
+    
+  </entry>
   
   <entry>
     <title>深浅拷贝原理</title>
@@ -74,7 +103,7 @@
     <link href="http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/"/>
     <id>http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/</id>
     <published>2018-12-10T07:28:28.000Z</published>
-    <updated>2018-12-19T09:28:31.000Z</updated>
+    <updated>2018-12-24T10:42:32.000Z</updated>
     
     <summary type="html">
     
