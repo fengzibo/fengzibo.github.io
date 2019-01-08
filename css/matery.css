@@ -1354,7 +1354,7 @@ table tr:nth-child(2n), thead {
 
 #aboutme .introduction {
     margin: 1.5rem auto 3rem;
-    max-width: 600px;
+    max-width: 640px;
     color: #999;
 }
 
