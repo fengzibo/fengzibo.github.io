@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.darkbo.com/"/>
-  <updated>2019-01-08T04:02:54.000Z</updated>
+  <updated>2019-01-10T09:44:26.000Z</updated>
   <id>http://www.darkbo.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>js创建对象</title>
+    <link href="http://www.darkbo.com/2019/01/08/js-chuang-jian-dui-xiang/"/>
+    <id>http://www.darkbo.com/2019/01/08/js-chuang-jian-dui-xiang/</id>
+    <published>2019-01-08T07:23:43.000Z</published>
+    <updated>2019-01-10T09:44:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;程序员找不到对象怎么办，哼，我们会自己 new 一个对象出来。扎心了。不过我们创建的对象有好也有坏，本文我们来捋一捋。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://www.darkbo.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://www.darkbo.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
     <title>解读this,call,apply,bind</title>
     <link href="http://www.darkbo.com/2019/01/03/jie-du-this-call-apply-bind/"/>
     <id>http://www.darkbo.com/2019/01/03/jie-du-this-call-apply-bind/</id>
     <published>2019-01-03T10:33:15.000Z</published>
-    <updated>2019-01-08T04:02:54.000Z</updated>
+    <updated>2019-01-10T04:26:37.000Z</updated>
     
     <summary type="html">
     
@@ -208,7 +235,7 @@
     <link href="http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/"/>
     <id>http://www.darkbo.com/2018/12/10/bu-wang-chu-xin-xie-gei-yuan-fang-de-zi-ji/</id>
     <published>2018-12-10T07:28:28.000Z</published>
-    <updated>2019-01-08T04:01:18.000Z</updated>
+    <updated>2019-01-09T08:04:20.000Z</updated>
     
     <summary type="html">
     

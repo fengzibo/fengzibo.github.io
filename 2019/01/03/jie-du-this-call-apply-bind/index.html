@@ -524,7 +524,7 @@ o<span class="token punctuation">.</span><span class="token function">getHeight<
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre>
-<p>这样就很明显的看出 <code>this</code> 的指向,所以就能得出上述例子的结果。其实 <code>new</code> 真实情况是这样</p>
+<p>这样就很明显的看出 <code>this</code> 的指向,所以就能得出上述例子的结果。其实调用构造函数的过程是这样</p>
 <ul>
 <li>创建一个新对象</li>
 <li>将构造函数的作用域赋给新对象（因此 <code>this</code> 就指向了这个新对象）</li>
@@ -913,30 +913,29 @@ o<span class="token punctuation">.</span><span class="token function">getName</s
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
-            <div class="article-badge left-badge text-color">本篇</div>
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge left-badge text-color">上一篇</div>
             <div class="card">
-                <a href="/2019/01/03/jie-du-this-call-apply-bind/">
+                <a href="/2019/01/08/js-chuang-jian-dui-xiang/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="解读this,call,apply,bind">
+                        <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="js创建对象">
                         
-                        <span class="card-title">解读this,call,apply,bind</span>
+                        <span class="card-title">js创建对象</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary">前言在之前的执行上下文中，我们知道了每个函数都有一个执行上下文，对于每个执行上下文都有三个重要属性：
-
-作用域链
-变量对象
-this 指向
-
-今天我们来弄清楚 this 指向的是什么，还有 call 、 apply 、 bind 是怎么回事</div>
+                    <div class="summary">前言程序员找不到对象怎么办，哼，我们会自己 new 一个对象出来。扎心了。不过我们创建的对象有好也有坏，本文我们来捋一捋。
+字面量方式我想要个女朋友，那创建一个呗
+var Amy = {
+  name: 'Amy',
+  age: 18
+}</div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-01-03
-                            </span>
+                        <span class="publish-date">
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-01-08
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
@@ -949,7 +948,6 @@ this 指向
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
